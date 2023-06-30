@@ -13,3 +13,12 @@ Informações solicitadas:<br>
     Obs.: sabendo que a meta é 5%.<br>
 6) É possível personalizar a análise com filtros por ano, departamento, raça, gênero e cargo?<br>
 Com esses questionamentos, conseguiremos nos nortear em relação às necessidades a serem atendidas com o projeto que iremos iniciar. Por meio do relatório personalizado, a ideia é possibilitar maior êxito e performance no mundo dos negócios. Dessa forma, é importante revisitarmos esses parâmetros no decorrer do desenvolvimento para verificar se estaremos suprindo a expectativa da empresa demandante.</p>
+
+<h2>Objetivos do curso:</h2>
+- Conheça diferentes funcionalidades do Power BI Desktop para montar um relatório personalizado;<br>
+- Aprenda a configurar um tema para padronizar cores e família de fontes;<br>
+- Entenda como formular uma pergunta para o Power BI sugerir uma visualização baseada nos seus dados;<br>
+- Realize a previsão e localização de anomalias em série temporais no relatório Power BI;<br>
+- Compreenda como a análise automatica do Power BI pode explicar flutuações nos gráficos;<br>
+- Estruture uma apresentação dinâmica com um relatório Power BI;<br>
+- Aplique alternativas de acessibilidade para os relatórios construídos em Power BI;<br>
